@@ -1,5 +1,8 @@
-Release x.y.z (YYYY-MM-DD)
-==========================
+Release 0.10.4 (2013-06-14)
+===========================
+- Add GStreamer 1.0 API support.
+- Add new plugin properties.
+- Increase verbosity for shader compiler.
 
 Release 0.10.2 (2012-02-03)
 ===========================
