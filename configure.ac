@@ -2,7 +2,7 @@ dnl required version of autoconf
 AC_PREREQ([2.53])
 
 dnl TODO: fill in your package name and package version here
-AC_INIT([gst-plugins-gles],[0.10.4],[bugs@avionic-design.de])
+AC_INIT([gst-plugins-gles],[0.10.5],[bugs@avionic-design.de])
 
 AC_CONFIG_MACRO_DIR([m4])
 AC_CONFIG_SRCDIR([src])
